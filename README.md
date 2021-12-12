@@ -7,7 +7,7 @@ L is done manually. And, so automating such a system may prove to be highly usef
 An automated grading system is built with the magical powers of neural networks. Using automation reduces time and effort in evaluation. NLTK libraries for feature extraction
 and LSTM are used for the learning process.  
 
-Architecture:
+
 
 
 
